@@ -13,7 +13,7 @@ deliberate enablement, and collection of an actual blocked sign-in as enforcemen
 
 ## Quick start: collect the complete incident record
 
-Open a fresh **PowerShell 7** window on a trusted administrative workstation.
+Open a fresh **PowerShell 7** window on a privileged access workstation (PAW).
 
 ```powershell
 Set-Location "C:\Tools\m365-incident-response\scripts"

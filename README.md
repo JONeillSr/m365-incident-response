@@ -24,7 +24,7 @@ people who got the email. The full story is in the
 
 ## Requirements
 
-- PowerShell 7 on a trusted administrative workstation.
+- PowerShell 7 on a privileged access workstation (PAW).
 - `Microsoft.Graph.Authentication` and `ExchangeOnlineManagement`.
 - Roles, Graph scopes, and licensing depend on the action. Each script's help lists them:
 
