@@ -1,0 +1,27 @@
+# Evidence and run output: contains tenant, user, device, and recipient data
+Evidence-Runs/
+**/Evidence-Runs/
+Notification-Runs/
+**/Notification-Runs/
+My-Sanitized-Evidence/
+*-Output.txt
+SENDING-PAUSED.txt
+
+# Recipient lists and secrets
+Recipients*.csv
+*.secret
+*.pfx
+*.pem
+*.key
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini

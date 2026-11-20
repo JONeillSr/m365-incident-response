@@ -1,0 +1,5 @@
+"TimeUtc","Operation","Rule","Condition","Actions","SourceIP","Session"
+"2026-07-22T20:52:08Z","New-InboxRule","Owner-name rule 1","From contains <one external correspondent>","Move to Conversation History; Mark as read; Stop processing more rules","203.0.113.66","SESSION-B"
+"2026-08-06T18:46:44Z","New-InboxRule","Owner-name rule 2","All incoming messages","Move to Conversation History; Mark as read; Stop processing more rules","203.0.113.66","SESSION-C"
+"2026-08-08T19:05:25Z","Remove-InboxRule","(removal)","","Rule removed","192.0.2.7","SESSION-B"
+"2026-08-08T19:05:59Z","Remove-InboxRule","(removal)","","Rule removed","192.0.2.7","SESSION-B"

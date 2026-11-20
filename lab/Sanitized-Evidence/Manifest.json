@@ -1,0 +1,25 @@
+{
+  "BuiltUtc": "2026-11-05T13:56:57.0152169Z",
+  "Sources": [
+    "2026-07-22\\User-SignIns-Raw.json",
+    "2026-08-06\\Suspected-Fraudulent-Devices.csv",
+    "2026-07-22\\Device-And-Authentication-Changes.csv",
+    "2026-07-22\\Inbox-Rule-Changes.csv",
+    "2026-07-22\\Mailbox-Access-And-Item-Actions.csv",
+    "2026-07-22\\Audited-Send-Actions.csv",
+    "2026-08-06\\Azure-Innovators-RFP-Campaign-Raw.csv",
+    "2026-07-22\\Unified-Audit-All.csv"
+  ],
+  "RowCounts": {
+    "SignIns.csv": 14,
+    "Devices.csv": 5,
+    "DeviceEvents.csv": 5,
+    "InboxRules.csv": 4,
+    "MailboxActions.csv": 78,
+    "Sends.csv": 6,
+    "Trace.csv": 356,
+    "Containment.csv": 12
+  },
+  "LeakTest": "Passed",
+  "IdentifiersChecked": 1245
+}
